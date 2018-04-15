@@ -1,6 +1,12 @@
 .DS_Store
-dogImages/
-lfw/
-saved_models/
+dogImages/train/*
+dogImages/test/*
+dogImages/valid/*
+lfw/*
+saved_models/*
 .ipynb_checkpoints/
-bottleneck_features/DogVGG16Data.npz
+bottleneck_features/*
+inputImages/*
+__MACOSX/
+*.png
+__pycache__

@@ -8,8 +8,13 @@
 ## Project: Dog Breed Identifier
 
 ### Final Report
-To see my work and results, open: 
+* To see my work and results, open: 
 [report.html](http://htmlpreview.github.com/?https://github.com/TheNathanielWatkins/Dog-Breed-Identifier-Project/blob/master/report.html)
+
+### Project Rubric
+* [https://review.udacity.com/#!/rubrics/810/view](https://review.udacity.com/#!/rubrics/810/view)
+
+-------
 
 ## Project Overview
 

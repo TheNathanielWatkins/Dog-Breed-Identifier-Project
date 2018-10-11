@@ -9,7 +9,7 @@
 
 ### Final Report
 To see my work and results, open: 
-[report.html](https://github.com/TheNathanielWatkins/Dog-Breed-Identifier-Project/blob/master/report.html)
+[report.html](http://htmlpreview.github.com/?https://github.com/TheNathanielWatkins/Dog-Breed-Identifier-Project/blob/master/report.html)
 
 ## Project Overview
 

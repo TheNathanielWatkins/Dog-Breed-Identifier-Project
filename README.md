@@ -5,6 +5,7 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 # Content: Deep Learning
+Udacity - Machine Learning Engineer Nanodegree | Nathaniel Watkins
 ## Project: Dog Breed Identifier
 
 ### Final Report

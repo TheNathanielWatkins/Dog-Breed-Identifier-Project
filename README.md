@@ -4,6 +4,12 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+# Content: Deep Learning
+## Project: Dog Breed Identifier
+
+### Final Report
+To see my work and results, open: 
+[report.html](https://github.com/TheNathanielWatkins/Dog-Breed-Identifier-Project/blob/master/report.html)
 
 ## Project Overview
 
